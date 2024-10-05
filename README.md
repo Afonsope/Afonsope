@@ -35,6 +35,3 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white">
 </div>
-
-![Snake animation](https://github.com/Afonsope/Afonsope/blob/output/github-contribution-grid-snake.svg)
-
