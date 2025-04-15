@@ -1,58 +1,189 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+## 💻 Pedro Afonso Pauina Ataide
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Afonso+Paulina+Ataide;I'm+17+years+old;I+am+from+São+Jose+do+Rio+Preto,+SP;I+am+a+computer+technician+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+**`Desenvolvedor FullStack`**
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Afonsope&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00bfbf" alt="Pedro Afonso Paulina Ataide github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonsope&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+Olá! Me chamo Pedro Afonso Paulina Ataide, tenho 18 anos e sou natural de São José do Rio Preto – SP. Sou apaixonado por tecnologia, aprendizado constante e tudo que envolve inovação. Desde cedo, mergulhei em projetos que unissem criatividade e propósito, sempre buscando causar um impacto positivo por onde passo.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Afonsope&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Sou comunicativo, proativo e tenho facilidade em trabalhar em equipe. Gosto de ouvir, entender e colaborar — acredito que boas ideias se constroem melhor juntos. Tenho também uma forte capacidade de organização, adaptabilidade frente a desafios e um olhar analítico que me ajuda a resolver problemas com calma e estratégia.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Afonsope&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+Sou formado como Técnico em Informática pelo [Senac Rio Preto](https://www.sp.senac.br/), onde tive a oportunidade de participar de projetos relevantes e desenvolver uma base sólida tanto em habilidades técnicas quanto em trabalho colaborativo. Atualmente curso Informática para Negócios na [FATEC Rio Preto](https://www.fatecriopreto.edu.br/), onde venho aprimorando ainda mais minha visão empreendedora e pensamento crítico.
+
+Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades, e é com essa mentalidade que busco crescer como profissional e como pessoa.
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pedro-afonso-paulina-ataide-9585382a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJZZzJHkrkPszFdzPHftSknDcbzmMbhSZMJsvTWSNQHrZQbmBjvrzHgZvgxTpwltlLvWgZL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/afonso_dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
+---
 
 ### My technologies
-  ### Tools:
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-  ![XAMPP](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-  ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 
-  ## Front-end
-  ![Wordpress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![CSS3](https://img.shields.io/badge/-css3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+### Tools:
 
-  ## Back-end
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp; 
-  ![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![C#](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<img
+    aling="left"
+    alt="vsc"
+    title="vsc"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+/>
+<img
+    aling="left"
+    alt="vs"
+    title="vs"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"
+/>
+<img
+    aling="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    aling="left"
+    alt="GitHub"
+    title="GitHub"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
+<img
+    aling="left"
+    alt="Windows"
+    title="Windows"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
+/>
+<img
+    aling="left"
+    alt="Notion"
+    title="Notion"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
+/>
+<img
+    aling="left"
+    alt="discord"
+    title="discord"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://skillicons.dev/icons?i=discord"
+/>
 
-  ## Data Science
-  ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp; 
-  ![Google Analytics](https://img.shields.io/badge/-googleanalytics-0D1117?style=for-the-badge&logo=googleanalytics&labelColor=0D1117)&nbsp;
+## Front-end
 
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Afonsope}/count.svg" /></p> 
-<br></div>
+<img
+    aling="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img 
+    aling="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    aling="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    aling="left"
+    alt="Node"
+    title="Node"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+<img 
+    aling="left"
+    alt="Figma"
+    title="Figma"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<img
+    aling="left"
+    alt="WP"
+    title="WP"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
+/>
+<img
+    aling="left"
+    alt="bootstrap"
+    title="bootstrap"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+/>
 
+## Back-end
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img 
+    aling="left"
+    alt="C#"
+    title="C#"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+/>
+<img
+    aling="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+    aling="left"
+    alt="python"
+    title="python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    aling="left"
+    alt="TS"
+    title="TS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img
+    aling="left"
+    alt="php"
+    title="php"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+/>
+
+## Data Science
+
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Google Analytics](https://img.shields.io/badge/-googleanalytics-0D1117?style=for-the-badge&logo=googleanalytics&labelColor=0D1117)&nbsp;
+
+<!-- Estastisticas -->
+  <div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Afonsope&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00bfbf" alt="Pedro Afonso Paulina Ataide github stats" /> 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonsope&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </div>
