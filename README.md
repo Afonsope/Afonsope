@@ -183,7 +183,7 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades
 ![Google Analytics](https://img.shields.io/badge/-googleanalytics-0D1117?style=for-the-badge&logo=googleanalytics&labelColor=0D1117)&nbsp;
 
 <!-- Estastisticas -->
-  <div align="center">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Afonsope&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=00bfbf" alt="Pedro Afonso Paulina Ataide github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonsope&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </div>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Afonsope&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Afonsope&layout=compact&langs_count=8&theme=tokyonight"/>  
+</div>
