@@ -17,6 +17,14 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades
 
 <!-- Estastisticas -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Afonsope&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Afonsope&layout=compact&langs_count=8&theme=tokyonight"/>  
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GRiguetto&show_icons=true&theme=merko&include_all_commits=true&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GRiguetto&layout=compact&langs_count=8&theme=merko&hide_border=true"/>  
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Afonsope/Afonsope/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Afonsope/Afonsope/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Afonsope/Afonsope/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
