@@ -17,8 +17,8 @@ Acredito que a tecnologia é uma ferramenta poderosa para transformar realidades
 
 <!-- Estastisticas -->
 <div align="center">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GRiguetto&show_icons=true&theme=merko&include_all_commits=true&hide_border=true"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GRiguetto&layout=compact&langs_count=8&theme=merko&hide_border=true"/>  
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Afonsope&show_icons=true&theme=merko&include_all_commits=true&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Afonsope&layout=compact&langs_count=8&theme=merko&hide_border=true"/>  
 </div>
 
 <div align="center">
