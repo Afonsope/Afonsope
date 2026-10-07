@@ -1,76 +1,112 @@
 <div align="center">
 
-# Pedro Afonso Paulina Ataide
+<a href="https://github.com/Afonsope">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=640&lines=Estudante+de+Inform%C3%A1tica+para+Neg%C3%B3cios+%F0%9F%8E%93;Back-end+com+Java+e+Spring+Boot+%E2%98%95;Sites+e+landing+pages+que+convertem+%F0%9F%9A%80;Buscando+meu+primeiro+est%C3%A1gio+em+dev+%F0%9F%92%BC" alt="Typing SVG" />
+</a>
 
-**Desenvolvedor em formação · Full Stack · São José do Rio Preto – SP**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-paulina-ataide/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Afonsope)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-paulina-ataide/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Afonsope)
+[![Status](https://img.shields.io/badge/Aberto_a-Est%C3%A1gio_e_1%C2%BA_emprego-2EA043?style=for-the-badge)](https://www.linkedin.com/in/pedro-afonso-paulina-ataide/)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👋 Olá, eu sou o Pedro!
 
-Estudante de **Informática para Negócios** na FATEC Rio Preto e técnico formado pelo **Senac Rio Preto**.
-Apaixonado por desenvolvimento de software, resolução de problemas e tecnologia.
-Atualmente com foco em **Java (back-end)** e desenvolvimento web, além de explorar Engenharia de Dados e Cibersegurança.
+Sou **desenvolvedor em formação** de **São José do Rio Preto – SP**, apaixonado por transformar problemas reais em software que funciona de verdade.
 
-Participo ativamente da comunidade tech: **GDG Rio Preto · Java Noroeste · Arduino Day · IA Rio Preto · SEMAC/Unesp**
+Já coloquei a mão na massa em **sistemas de gestão (ERP)** e em **sites de alta conversão para tráfego pago**, então transito bem entre o back-end e o front-end, sempre pensando em quem vai usar o produto.
+
+```java
+public class Pedro {
+
+    String nome     = "Pedro Afonso Paulina Ataide";
+    String cidade   = "São José do Rio Preto - SP";
+    String formacao = "Informática para Negócios @ FATEC Rio Preto";
+    String foco     = "Java (back-end) + desenvolvimento web";
+    String explorando[] = { "Engenharia de Dados", "Cibersegurança" };
+
+    boolean buscandoOportunidade = true; // estágio ou primeiro emprego em dev 🚀
+}
+```
+
+### ⚡ Em resumo
+
+- 🔭 **Foco atual:** Java, Spring Boot e desenvolvimento web
+- 🧪 **Explorando:** Engenharia de Dados e Cibersegurança
+- 🛠️ **Construindo agora:** ERP Ar Ecológico (Java + SQL Server)
+- 🤝 **Comunidade:** GDG Rio Preto · Java Noroeste · Arduino Day · IA Rio Preto · SEMAC/Unesp
+- 💼 **Procurando:** estágio e primeiro emprego em desenvolvimento de software
 
 ---
 
-## Tecnologias
+## 🧰 Stack
 
 **Back-end & linguagens**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php,py,ts,cs" alt="Back-end" />
+</p>
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="Front-end" />
+</p>
 
-**Banco de dados**
+**Banco de dados, dados & BI**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Dados & BI**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,r" alt="Bancos e dados" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 **Ferramentas**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,wordpress" alt="Ferramentas" />
+</p>
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
-### 🔧 ERP Ar Ecológico *(em andamento)*
-Sistema ERP desenvolvido para uma empresa de instalação de ar-condicionado.
-Gerenciamento de ordens de serviço, clientes e estoque.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔧 ERP Ar Ecológico
+*Em andamento*
+
+Sistema ERP sob medida para uma empresa de instalação de ar-condicionado, com gerenciamento de **ordens de serviço**, **clientes** e **estoque**.
+
 `Java` `SQL Server`
 
-### 🌐 Sites para tráfego pago · Agência Flauzino
-Desenvolvimento de landing pages e sites otimizados para campanhas de tráfego pago.
+### 🌐 Sites para tráfego pago
+*Agência Flauzino*
+
+Landing pages e sites pensados para campanhas de tráfego pago: rápidos, responsivos e focados em conversão.
+
 `HTML` `CSS` `Bootstrap` `JavaScript`
+
+  </tr>
+</table>
 
 ---
 
-## Formação
+## 💼 Experiência
+
+| Período | Função | Onde |
+|---|---|---|
+| Atual | **Freelancer Front-end** | Agência Flauzino |
+| Atual | **Estagiário Administrativo** | BB Sports |
+| set/2024 – jan/2025 | **Estagiário Porteiro Remoto** | Coffani Alarmes |
+
+## 🎓 Formação
 
 | Curso | Instituição | Situação |
 |---|---|---|
@@ -79,24 +115,16 @@ Desenvolvimento de landing pages e sites otimizados para campanhas de tráfego p
 
 ---
 
-## Experiência
+## 📫 Vamos conversar?
 
-- **Estagiário Administrativo** · BB Sports *(atual)*
-- **Freelancer Front-end** · Agência Flauzino *(atual)*
-- **Estagiário Porteiro Remoto** · Coffani Alarmes · set/2024 – jan/2025
-
----
-
-<!-- Estastisticas -->
-<div align="center">
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Afonsope&show_icons=true&theme=merko&include_all_commits=true&hide_border=true"/>
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Afonsope&layout=compact&langs_count=8&theme=merko&hide_border=true"/>  
-</div>
-
----
+Estou em busca de uma oportunidade para **crescer, aprender e entregar valor** em um time de desenvolvimento. Se você tem uma vaga de estágio ou quer trocar uma ideia sobre Java, web ou comunidade tech, me chama!
 
 <div align="center">
 
-*Aberto a oportunidades de estágio e primeiro emprego em desenvolvimento de software.*
+[![LinkedIn](https://img.shields.io/badge/Falar_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-afonso-paulina-ataide/)
+
+<br/>
+
+*"Código bom é aquele que resolve o problema de alguém."* ☕
 
 </div>
